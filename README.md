@@ -1,2 +1,3 @@
 # PythonProjects
-Miscellaneous projects coded with Python
+Python code for a music modulator
+
